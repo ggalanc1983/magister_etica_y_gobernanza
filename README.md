@@ -9,7 +9,7 @@
 | Archivo | Contenido |
 |---|---|
 | `entrega-1/Plantilla Ficha del caso e informe.docx` | Informe del Avance 1 (secciones 1 a 7) |
-| `entrega-1/Plantilla Inventario de datos y sistema de IA.xlsx` | Inventario de 18 datos y ficha del sistema de IA |
+| `entrega-1/Plantilla Inventario de datos y sistema de IA.xlsx` | Inventario de 20 datos y ficha del sistema de IA |
 | `entrega-1/Plantilla_Matriz_de_riesgos_eticos_y_de_compliance.xlsx` | Matriz de 15 riesgos y mapa de calor |
 | `entrega-1/Plantilla Mapa de partes interesadas.docx` | Anexo: mapa de partes interesadas y dilemas |
 | `entrega-1/Plantilla de acuerdo de equipo.docx` | Acuerdo de equipo |
